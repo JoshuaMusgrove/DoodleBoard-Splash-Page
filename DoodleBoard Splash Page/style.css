@@ -1,0 +1,204 @@
+
+div {
+    padding: 10px;
+    text-align: center;
+}
+
+#topslide {
+    background-color: #8E24AA;
+    text-align: center;
+    padding: 230px;
+    font-size: 2em;
+    color: #FFFFFF;
+    font-family:sans-serif;
+}
+
+div button {
+    padding: 20px 0px 20px 0px;   
+    background-color: #FFFFFF;
+    border: none;
+    margin: 15px;
+    color: #8E24AA;
+    min-width: 120px;
+}
+
+#learn {
+    margin: 1em;
+    padding: 1em;
+    position: relative;
+    text-decoration: none;
+}
+
+#sign {
+    margin: 1em;
+    padding: 1em;
+    position: relative;
+    text-decoration: none;
+}
+
+.infoslide {
+    text-align: center;
+    margin: auto;
+    min-height: 300px;
+    padding-top: 20px;
+}
+
+#infoslide1 {
+    background-color: #FFFFFF;
+    width: 55ex;
+}
+
+#infoslide2 {
+    background-color: #CE93D8;
+}
+
+#infoslide3 {
+    background-color: #FFFFFF;
+    width: 55ex;
+}
+
+#infoslide4 {
+    background-color: #CE93D8;
+}
+
+#infoslide5 {
+    background-color: #FFFFFF;
+    width: 55ex;
+}
+
+#infoslide6 {
+    background-color: #CE93D8;
+}
+
+footer {
+    background-color: #424242;
+    color: #BDBDBD;
+    padding: 10px;
+}
+
+footer p {
+    padding: 10px;
+    display:;
+    text-align: center;
+    display: block;
+}
+
+footer h2 {
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    align-content: center;
+    padding: 100px, 15px, 100px, 15px;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+/* This is where the css for other than laptop starts */
+
+
+
+@media (max-width : 650px){
+    
+ 
+div {
+    padding: 10px;
+    text-align: center;
+}
+
+#topslide {
+    background-color: #8E24AA;
+    text-align: center;
+    padding: 100px;
+    font-size: 1.5em;
+    color: #FFFFFF;
+    font-family:sans-serif;
+}
+
+div button {
+    padding: 20px 0px 20px 0px;   
+    background-color: #FFFFFF;
+    border: none;
+    margin: 15px;
+    color: #8E24AA;
+    min-width: 120px;
+}
+    
+#learn {
+    margin: 1em;
+    padding: 1em;
+    position: relative;
+    text-decoration: none;
+}
+
+#sign {
+    margin: 1em;
+    padding: 1em;
+    position: relative;
+    text-decoration: none;
+}
+
+.infoslide {
+    text-align: center;
+    margin: auto;
+    min-height: 300px;
+    padding-top: 20px;
+}
+
+#infoslide1 {
+    background-color: #FFFFFF;
+    width: 55ex;
+}
+
+#infoslide2 {
+    background-color: #CE93D8;
+}
+
+#infoslide3 {
+    background-color: #FFFFFF;
+    width: 55ex;
+}
+
+#infoslide4 {
+    background-color: #CE93D8;
+}
+
+#infoslide5 {
+    background-color: #FFFFFF;
+    width: 55ex;
+}
+
+#infoslide6 {
+    background-color: #CE93D8;
+}
+
+footer {
+    background-color: #424242;
+    color: #BDBDBD;
+    padding: 10px;
+}
+
+footer p {
+    padding: 10px;
+    display:;
+    text-align: center;
+    display: block;
+}
+
+footer h2 {
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    align-content: center;
+    padding: 100px, 15px, 100px, 15px;
+    width: 100%;
+    text-align: center;
+}
+   
+    
+}
